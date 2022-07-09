@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="google.com" target="blank"><img align="center" src="https://img.icons8.com/color/344/telegram-app--v1.png" height="100" /></a>
+<a href="[google.com](https://www.google.com/)" target="blank"><img align="center" src="https://img.icons8.com/color/344/telegram-app--v1.png" height="100" /></a>
 
 <!--
 **evgeniykravtsov/evgeniykravtsov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
